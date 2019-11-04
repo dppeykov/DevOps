@@ -19,6 +19,8 @@ DevOps Interview Questions 👨🏻‍💻
 ![alt text](https://www.360logica.com/blog/wp-content/uploads/2017/10/devops-unified-workflow_1.png "DevOps LifeCycle")
 
 
-**3. Can you describe the DevOps LifeCycle?**
+**3. What are the differences between Lean, Agile and DevOps?**
 
-
+>**Lean** - an approach to software development focused on optimizing development resources with the initial goal of delivering MVP (Minimum Viable Product). Once the MVP is released to the market, the development team takes feedback and makes adjustments (adds/removes/improves) to the software product based on the customer's requests. 
+> **Agile** - a framework for multiple approaches for software development, most commonly of which is the SCRUM approach.
+> - **SCRUM** uses 2 weeks periods for application development, called __sprints__. During each sprint the development team uses input from the business (**feedback cycle**) to add specific features and/or repair bugs. at the end of the sprint a **new version** of the application is released.
