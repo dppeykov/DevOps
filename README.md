@@ -21,6 +21,24 @@ DevOps Interview Questions 👨🏻‍💻
 
 **3. What are the differences between Lean, Agile and DevOps?**
 
+> To compare Lean and Agile to DevOps we need to know what the first 2 are. 
+
 >**Lean** - an approach to software development focused on optimizing development resources with the initial goal of delivering MVP (Minimum Viable Product). Once the MVP is released to the market, the development team takes feedback and makes adjustments (adds/removes/improves) to the software product based on the customer's requests. 
+
 > **Agile** - a framework for multiple approaches for software development, most commonly of which is the SCRUM approach.
 > - **SCRUM** uses 2 weeks periods for application development, called __sprints__. During each sprint the development team uses input from the business (**feedback cycle**) to add specific features and/or repair bugs. at the end of the sprint a **new version** of the application is released.
+
+> **Differences** - communication & operations - in the Lean & Agile the teams are separated, but the DevOps combines them and improve the communication. Also the Lean & Agile are focusing either on MVP or sprints to deliver the product, while the DevOps is trying to use continuous delivery and deployment.
+
+
+**4. How would you explain CI/CD (Continuous Integration/Delivery)?**
+
+> **Continuous Integration** - the developers **code in a local repo** and **commit** their changes on a **regular basis**. Then the code can be **integrated** with another team's code if needed. The next step is **testing** and checking for errors. 
+> **Continuous Delivery** - allows the developers to build, test and **release** their software. It adds to the CI. Including tests in the process allows the team to be confident of the quality of the product.
+> **Continuous Deployment** - add to CI/CD by including the **deployment of the software without human interaction**.
+
+> **CI/CD tools**: 
+ - self-hosted (build by the company itself, usualy internal) - Bamboo, TeamCity, Jenkins
+ - Software as a Service (SaaS - cloud-based tools) - TravisCI, Codeship, CircleCI
+ - Cloud Service Providers - AWS, Google Cloud, Azure
+ - Code Repositories (provides CI/CD services and code tracking) - GitHub, GitLab, Bitbucket 
