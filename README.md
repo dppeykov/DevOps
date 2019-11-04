@@ -34,7 +34,9 @@ DevOps Interview Questions 👨🏻‍💻
 **4. How would you explain CI/CD (Continuous Integration/Delivery)?**
 
 > **Continuous Integration** - the developers **code in a local repo** and **commit** their changes on a **regular basis**. Then the code can be **integrated** with another team's code if needed. The next step is **testing** and checking for errors. 
+
 > **Continuous Delivery** - allows the developers to build, test and **release** their software. It adds to the CI. Including tests in the process allows the team to be confident of the quality of the product.
+
 > **Continuous Deployment** - add to CI/CD by including the **deployment of the software without human interaction**.
 
 > **CI/CD tools**: 
