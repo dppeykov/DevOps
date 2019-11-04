@@ -14,7 +14,7 @@ DevOps Interview Questions 👨🏻‍💻
 
 **2. Can you describe the DevOps LifeCycle?**
 
-> The DevOps lifecycle consists of **8 stages** in a constant loop. The first 4 activities (plan, code, build, test) are focused more on the development processes and teams, while the other 4 (release, deploy, operate, monitor) on the operations.
+> The DevOps lifecycle consists of **8 stages** in a constant loop. The first 4 activities (plan, code, build, test) are focused more on the development processes and teams, while the other 4 (release, deploy, operate, monitor) - on the operations.
 
 ![alt text](https://www.360logica.com/blog/wp-content/uploads/2017/10/devops-unified-workflow_1.png "DevOps LifeCycle")
 
