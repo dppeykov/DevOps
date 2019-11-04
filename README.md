@@ -3,7 +3,7 @@ DevOps Interview Questions 👨🏻‍💻
 
 ### **1. Define DevOps and what does it mean to you?**
 
-> DevOps is a culture and a way of thinking, it is not a particular tool or set of tools
+> DevOps is a culture and a way of thinking, it is not a particular tool or set of tools. a good way to think of DevOps is through the CAMS principle:
 
 > **CAMS** = **C**ulture, **A**utomation, **M**easurements, **S**haring 
 >  - __Culture:__ result of the way teams interact. In DevOps the operations (sys admins) and the developement teams are working closely toghether towards a common goal;
