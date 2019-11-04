@@ -42,3 +42,6 @@ DevOps Interview Questions 👨🏻‍💻
  - Software as a Service (SaaS - cloud-based tools) - TravisCI, Codeship, CircleCI
  - Cloud Service Providers - AWS, Google Cloud, Azure
  - Code Repositories (provides CI/CD services and code tracking) - GitHub, GitLab, Bitbucket 
+ 
+ ![alt text](https://i.stack.imgur.com/yOofB.png "CI/CD")
+ 
