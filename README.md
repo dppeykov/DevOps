@@ -1,7 +1,7 @@
 DevOps Interview Questions 👨🏻‍💻
 ===============================
 
-**1. Define DevOps and what does it mean to you?**
+### 1. Define DevOps and what does it mean to you?
 
 > DevOps is a culture and a way of thinking, it is not a particular tool or set of tools. A good way to think of DevOps is through the CAMS principle:
 
@@ -12,14 +12,14 @@ DevOps Interview Questions 👨🏻‍💻
 >  - __Sharing:__ allows for exchanging of ideas, problems and solutions between the teams. Contributes to the transparency of thoughts and the open culture of the teams/company;
 
 
-**2. Can you describe the DevOps LifeCycle?**
+### 2. Can you describe the DevOps LifeCycle?
 
 > The DevOps lifecycle consists of **8 stages** in a constant loop. The first 4 activities (plan, code, build, test) are focused more on the development processes and teams, while the other 4 (release, deploy, operate, monitor) - on the operations.
 
 ![alt text](https://www.360logica.com/blog/wp-content/uploads/2017/10/devops-unified-workflow_1.png "DevOps LifeCycle")
 
 
-**3. What are the differences between Lean, Agile and DevOps?**
+### 3. What are the differences between Lean, Agile and DevOps?
 
 > To compare Lean and Agile to DevOps we need to know what the first 2 are. 
 
@@ -31,7 +31,7 @@ DevOps Interview Questions 👨🏻‍💻
 > **Differences** - communication & operations - in the Lean & Agile the teams are separated, but the DevOps combines them and improve the communication. Also the Lean & Agile are focusing either on MVP or sprints to deliver the product, while the DevOps is trying to use continuous delivery and deployment.
 
 
-**4. How would you explain CI/CD (Continuous Integration/Delivery)?**
+### 4. How would you explain CI/CD (Continuous Integration/Delivery)?
 
 > **Continuous Integration** - the developers **code in a local repo** and **commit** their changes on a **regular basis**. Then the code can be **integrated** with another team's code if needed. The next step is **testing** and checking for errors. 
 
