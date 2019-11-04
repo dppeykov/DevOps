@@ -12,14 +12,14 @@ DevOps Interview Questions 👨🏻‍💻
 >  - __Sharing:__ allows for exchanging of ideas, problems and solutions between the teams. Contributes to the transparency of thoughts and the open culture of the teams/company;
 
 
-**2. DevOps lifecycle**
+**2. DevOps LifeCycle**
 
-> The DevOps lifecycle consists of 8 stages:
+> The DevOps lifecycle consists of **8 stages**:
 
->> **Plan**  > **Code** > **Build** > **Test** > **Release** > **Deploy** > **Operate** > **Monitor** >>
+**Plan**  > **Code** > **Build** > **Test** > **Release** > **Deploy** > **Operate** > **Monitor** 
 
-![alt text][logo]
-[logo]: https://www.360logica.com/blog/wp-content/uploads/2017/10/devops-unified-workflow_1.png
+![alt text](https://www.360logica.com/blog/wp-content/uploads/2017/10/devops-unified-workflow_1.png "DevOps LifeCycle")
+
 
 
 
