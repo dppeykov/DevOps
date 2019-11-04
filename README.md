@@ -1,8 +1,5 @@
 DevOps Interview Questions 👨🏻‍💻
 ===============================
 
-Contents
---------
-**Basic Questions:** **[`Theory`](#theory)__**  
+1. Define DevOps:
 
-Theory
