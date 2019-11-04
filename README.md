@@ -19,6 +19,6 @@ DevOps Interview Questions 👨🏻‍💻
 ![alt text](https://www.360logica.com/blog/wp-content/uploads/2017/10/devops-unified-workflow_1.png "DevOps LifeCycle")
 
 
-
+**3. Can you describe the DevOps LifeCycle?**
 
 
