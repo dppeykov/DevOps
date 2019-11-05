@@ -44,11 +44,11 @@ DevOps Interview Questions 👨🏻‍💻
 
 > **Continuous Delivery** - allows the developers to build, test and **release** their software. It adds to the CI. Including tests in the process allows the team to be confident of the quality of the product.
 
-> (lint, unit testing, typesciprt, prettier ...) --> Code PR --> Tests --> Build --> Merge --> Acceptance tests --> Manual Deployment
+> __(lint, unit testing, typesciprt, prettier ...) --> Code PR --> Tests --> Build --> Merge --> Acceptance tests --> Manual Deployment__
 
 > **Continuous Deployment** - add to CI/CD by including the **deployment of the software without human interaction**. Example is GitHub pages.
 
-> (lint, unit testing, typesciprt, prettier ...) --> Code PR --> Tests --> Build --> Merge --> Acceptance tests --> Auto Deployment
+> __(lint, unit testing, typesciprt, prettier ...) --> Code PR --> Tests --> Build --> Merge --> Acceptance tests --> Auto Deployment__
 
 > **CI/CD tools**: 
  - self-hosted (build by the company itself, usualy internal) - Bamboo, TeamCity, Jenkins
