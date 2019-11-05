@@ -43,12 +43,10 @@ DevOps Interview Questions 👨🏻‍💻
 > **Continuous Integration** - the developers **code in a local repo** and **commit** their changes on a **regular basis**. Then the code can be **integrated** with another team's code if needed. The next step is **testing** and checking for errors.
 
 > **Continuous Delivery** - allows the developers to build, test and **release** their software. It adds to the CI. Including tests in the process allows the team to be confident of the quality of the product.
-
-> __(lint, unit testing, typesciprt, prettier ...) --> Code PR --> Tests --> Build --> Merge --> Acceptance tests --> Manual Deployment__
+> *__(lint, unit testing, typesciprt, prettier ...) --> Code PR --> Tests --> Build --> Merge --> Acceptance tests --> Manual Deployment__*
 
 > **Continuous Deployment** - add to CI/CD by including the **deployment of the software without human interaction**. Example is GitHub pages.
-
-> __(lint, unit testing, typesciprt, prettier ...) --> Code PR --> Tests --> Build --> Merge --> Acceptance tests --> Auto Deployment__
+> *__(lint, unit testing, typesciprt, prettier ...) --> Code PR --> Tests --> Build --> Merge --> Acceptance tests --> Auto Deployment__*
 
 > **CI/CD tools**: 
  - self-hosted (build by the company itself, usualy internal) - Bamboo, TeamCity, Jenkins
