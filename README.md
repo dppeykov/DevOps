@@ -7,9 +7,13 @@ DevOps Interview Questions 👨🏻‍💻
 
 > **CAMS** = **C**ulture, **A**utomation, **M**easurements, **S**haring 
 >  - __Culture:__ result of the way teams interact. In DevOps the operations (sys admins) and the developement teams are working closely toghether towards a common goal;
->  - __Automation:__ used to speed up the feedback between teams by using tools that allow collaboration and repeatable processes. Examples are tools for revision control (version control = git), continuous integration (Jenkins, GitLab, CircleCI ...) and configuration management (Chef, Ansible, Puppet ...);
+>  - __Automation:__ used to speed up the feedback between teams by using tools that allow collaboration and repeatable processes. Examples are tools for revision control (version control = git), continuous integration (Jenkins, GitLab, CircleCI ...) and configuration management (Chef, Ansible, Puppet ...); Additional principle is **people over processes over tools** - once the people understand the culture, they can start creating the automation;
 >  - __Measurement:__ used to track the progress/improvements. Helps finding bottlenecks and degradations during deployment;
 >  - __Sharing:__ allows for exchanging of ideas, problems and solutions between the teams. Contributes to the transparency of thoughts and the open culture of the teams/company;
+
+> The practice of operations (Ops = Linux admins, Windows admins, DBAs ...) and development engineers (Dev = programmers, QA, front & back-end ...) participating together in the entire service lifecycle, from desing through the development process to production support.
+
+> Benefits: more frequent deployment (delivering value faster), less fails and faster revcovery.
 
 
 ### 2. Can you describe the DevOps LifeCycle?
